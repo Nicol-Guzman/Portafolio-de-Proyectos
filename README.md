@@ -6,7 +6,7 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 ## PROYECTOS DE PROGRAMACION
 
-◾ En construcción...
+◾ M2S2 - [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
 
 ## PROYECTOS DE ILUSTRACIÓN Y DISEÑO
 
