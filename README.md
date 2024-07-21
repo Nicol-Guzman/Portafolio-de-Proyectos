@@ -41,7 +41,7 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 ### BRANDING, DISEÑO DE MARCA Y LOGOS
 
-**DISEÑO DE LOGOS - VIDEOJUEGOS**
+![DISEÑO DE LOGOS DE VIDEOJUEGOS](https://i.imgur.com/RoYtdHu.png)
 
 - CATALOGO DE DISEÑOS: [GALERÍA](https://sta.sh/21r1mo1jgmeq?edit=1)
 
