@@ -14,11 +14,11 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 **Nota:** Utilizar ctrl+click (Windows y Linux) y cmd+click (Mac) para abrir links en una nueva ventana.
 
-##PROYECTOS DE PROGRAMACION
+## PROYECTOS DE PROGRAMACION
 
-###TRABAJOS Y EVALUACIONES - BOOTCAMP FULLSTACK JAVASCRIPT TRAINEE (Edutecno, SENCE y Talento Digital para Chile)
+### TRABAJOS Y EVALUACIONES - BOOTCAMP FULLSTACK JAVASCRIPT TRAINEE (Edutecno, SENCE y Talento Digital para Chile)
 
-**MODULO 2
+**MODULO 2**
 - Sesion 1: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
 - Sesion 1: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion1_Drilling)
 - Sesion 2: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion2_ReboundExercise)
