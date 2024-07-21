@@ -16,6 +16,8 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 ## PROYECTOS DE PROGRAMACION
 
+**TRABAJOS Y EVALUACIONES - BOOTCAMP FULLSTACK JAVASCRIPT TRAINEE (Edutecno, SENCE y Talento Digital para Chile)**
+
 - Modulo 2 - Sesion 1 - [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
 - Modulo 2 - Sesion 1 - [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion1_Drilling)
 - Modulo 2 - Sesion 2 - [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion2_ReboundExercise)
