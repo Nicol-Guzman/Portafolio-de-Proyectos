@@ -36,7 +36,7 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 **CLIENTE:** CONSTANZA HENSELEIT
 **FECHA DE ENTREGA:** 21 DE DICIEMBRE DE 2018
 
-- COLECCION DE FIGURINES ILUSTRADOS: [GALERÍA]([url](https://sta.sh/226t4hcmg2i7))
+- COLECCION DE FIGURINES ILUSTRADOS: [GALERÍA](https://sta.sh/226t4hcmg2i7)
 
 ## PROYECTOS DE FOTOGRAFIA Y FOTOMANIPULACIÓN
 
