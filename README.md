@@ -46,7 +46,11 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 ## PROYECTOS DE FOTOGRAFIA Y FOTOMANIPULACIÓN
 
-◾ En construcción...
+### EDICION DE ESCENARIOS
+
+**FONDOS PARA VIDEOJUEGOS**
+
+- NOVELAS VISUALES Y FICCIÓN INTERACTIVA: [GALERÍA](https://sta.sh/2mxrn1l1ge7)
 
 ## PROYECTOS DE BRANDING (Imagen de Marca)
 
