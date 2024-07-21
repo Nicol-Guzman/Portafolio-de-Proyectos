@@ -14,14 +14,21 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 **Nota:** Utilizar ctrl+click (Windows y Linux) y cmd+click (Mac) para abrir links en una nueva ventana.
 
-## PROYECTOS DE PROGRAMACION
+##PROYECTOS DE PROGRAMACION
 
-**TRABAJOS Y EVALUACIONES - BOOTCAMP FULLSTACK JAVASCRIPT TRAINEE (Edutecno, SENCE y Talento Digital para Chile)**
+###TRABAJOS Y EVALUACIONES - BOOTCAMP FULLSTACK JAVASCRIPT TRAINEE (Edutecno, SENCE y Talento Digital para Chile)
 
-- Modulo 2 - Sesion 1 - [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
-- Modulo 2 - Sesion 1 - [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion1_Drilling)
-- Modulo 2 - Sesion 2 - [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion2_ReboundExercise)
-- Modulo 2 - Sesion 2 - [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion2_Drilling)
+**MODULO 2
+- Sesion 1: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
+- Sesion 1: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion1_Drilling)
+- Sesion 2: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion2_ReboundExercise)
+- Sesion 2: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion2_Drilling)
+- Sesion 3: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion3_ReboundExercise)
+- Sesion 3: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion3_Drilling)
+- Sesion 4: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion4_ReboundExercise)
+- Sesion 4: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion4_Drilling)
+- Sesion 5: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion5_ReboundExercise)
+- Sesion 5: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion5_Drilling)
 
 ## PROYECTOS DE ILUSTRACIÓN Y DISEÑO
 
