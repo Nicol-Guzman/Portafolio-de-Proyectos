@@ -16,7 +16,7 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 ## PROYECTOS DE PROGRAMACION
 
-![BOOTCAMP JAVASCRIPT TRAINEE - EDUTECNO](https://i.imgur.com/U3z51P0.png)
+![BOOTCAMP JAVASCRIPT TRAINEE - EDUTECNO](https://i.imgur.com/qBoBO4n.png)
 
 **MODULO 2**
 - Sesion 1: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
