@@ -5,7 +5,9 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 ***CONSIDERACIONES
 
 - Todo mi trabajo y practicas de programación cuentan con un link a cada uno de los repositorios correspondientes, en estos repositorios se proporciona un link de descarga por medio de Google Drive.
+  
 - Proyectos importantes como comisiones y trabajos realizados como freelancer, no tendran links de descarga a los archivos originales (.psd y .clip) y contaran con marcas de agua pronunciadas.
+
 - Solo compartire códigos de mis proyectos personales (Plantillas, practicas, entre otros).
 
 **Campos de desarrollo:** Moda, Ilustración, Diseño, Programación y Fotografía.
