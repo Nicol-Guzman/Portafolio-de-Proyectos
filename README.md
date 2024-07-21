@@ -8,8 +8,10 @@ Nota: Utilizar ctrl+click (Windows y Linux) y cmd+click (Mac) para abrir links e
 
 ## PROYECTOS DE PROGRAMACION
 
-- M2S2 - [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
-- M2S2 - [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion1_Drilling)
+- Modulo 2 - Sesion 1 - [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
+- Modulo 2 - Sesion 1 - [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion1_Drilling)
+- Modulo 2 - Sesion 2 - [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion2_ReboundExercise)
+- Modulo 2 - Sesion 2 - [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion2_Drilling)
 
 ## PROYECTOS DE ILUSTRACIÓN Y DISEÑO
 
