@@ -32,7 +32,11 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 ## PROYECTOS DE ILUSTRACIÓN Y DISEÑO
 
-◾ En construcción...
+**FIGURINES DE MODA ILUSTRADOS**
+**CLIENTE:** CONSTANZA HENSELEIT
+**FECHA DE ENTREGA:** 21 DE DICIEMBRE DE 2018
+
+- COLECCION DE FIGURINES ILUSTRADOS: [GALERÍA]([url](https://sta.sh/226t4hcmg2i7))
 
 ## PROYECTOS DE FOTOGRAFIA Y FOTOMANIPULACIÓN
 
