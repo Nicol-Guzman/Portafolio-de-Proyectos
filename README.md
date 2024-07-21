@@ -9,6 +9,7 @@ Nota: Utilizar ctrl+click (Windows y Linux) y cmd+click (Mac) para abrir links e
 ## PROYECTOS DE PROGRAMACION
 
 ◾ M2S2 - [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
+◾ M2S2 - [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion1_Drilling)
 
 ## PROYECTOS DE ILUSTRACIÓN Y DISEÑO
 
