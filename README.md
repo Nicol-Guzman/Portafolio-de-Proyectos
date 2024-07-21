@@ -4,6 +4,8 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 **Campos de desarrollo:** Moda, Ilustración, Diseño, Programación y Fotografía.
 
+Nota: Utilizar ctrl+click (Windows y Linux) y cmd+click (Mac) para abrir links en una nueva ventana.
+
 ## PROYECTOS DE PROGRAMACION
 
 ◾ M2S2 - [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
