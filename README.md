@@ -2,7 +2,7 @@
 
 Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organizados todos los trabajos que he desarrollado tanto por medio de cursos y bootcamps, como de trabajos independientes y practicas de autoestudio.
 
-*CONSIDERACIONES*
+**CONSIDERACIONES**
 
 - Todo mi trabajo y practicas de programación cuentan con un link a cada uno de los repositorios correspondientes, en estos repositorios se proporciona un link de descarga por medio de Google Drive.
   
