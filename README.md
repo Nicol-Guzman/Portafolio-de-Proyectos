@@ -43,7 +43,7 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 ### EDICION DE ESCENARIOS
 
-**FONDOS PARA VIDEOJUEGOS**
+![EDICION FOTOGRAFICA DE ESCENARIOS Y PAISAJES](https://i.imgur.com/H5BR8Gr.png)
 
 - NOVELAS VISUALES Y FICCIÓN INTERACTIVA: [GALERÍA](https://sta.sh/2mxrn1l1ge7)
 
