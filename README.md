@@ -39,12 +39,6 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 - COLECCION DE FIGURINES ILUSTRADOS: [GALERÍA](https://sta.sh/226t4hcmg2i7)
 
-### BRANDING, DISEÑO DE MARCA Y LOGOS
-
-![DISEÑO DE LOGOS DE VIDEOJUEGOS](https://i.imgur.com/RoYtdHu.png)
-
-- CATALOGO DE DISEÑOS: [GALERÍA](https://sta.sh/21r1mo1jgmeq?edit=1)
-
 ## PROYECTOS DE FOTOGRAFIA Y FOTOMANIPULACIÓN
 
 ### EDICION DE ESCENARIOS
@@ -55,7 +49,9 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 ## PROYECTOS DE BRANDING (Imagen de Marca)
 
-◾ En construcción...
+![DISEÑO DE LOGOS DE VIDEOJUEGOS](https://i.imgur.com/RoYtdHu.png)
+
+- CATALOGO DE DISEÑOS: [GALERÍA](https://sta.sh/21r1mo1jgmeq?edit=1)
 
 ## PROYECTOS DE Moda)
 
