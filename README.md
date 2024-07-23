@@ -18,6 +18,9 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 
 ![BOOTCAMP JAVASCRIPT TRAINEE - EDUTECNO](https://i.imgur.com/qBoBO4n.png)
 
+**HACKATON CHALLENGES**
+- MODULO 2: [Sitio Esttico con HTML + CSS "Hamburguesas BK"](https://github.com/Nicol-Guzman/hackaton-challenge-ngl)
+
 **MODULO 2**
 - Sesion 1: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion1_ReboundExercise)
 - Sesion 1: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion1_Drilling)
