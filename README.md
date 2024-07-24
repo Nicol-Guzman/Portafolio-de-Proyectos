@@ -2,6 +2,8 @@
 
 Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organizados todos los trabajos que he desarrollado tanto por medio de cursos y bootcamps, como de trabajos independientes y practicas de autoestudio.
 
+Este repositorio se convertira en una pagina estatica a futuro! 
+
 **CONSIDERACIONES**
 
 - Todo mi trabajo y practicas de programación cuentan con un link a cada uno de los repositorios correspondientes, en estos repositorios se proporciona un link de descarga por medio de Google Drive.
@@ -32,6 +34,8 @@ Bienvenido a mi portafolio de proyectos, en este repositorio se encuentran organ
 - Sesion 4: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion4_Drilling)
 - Sesion 5: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion5_ReboundExercise)
 - Sesion 5: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion5_Drilling)
+- Sesion 6: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion6_ReboundExercise)
+- Sesion 6: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion6_Drilling)
 
 ## PROYECTOS DE ILUSTRACIÓN Y DISEÑO
 
