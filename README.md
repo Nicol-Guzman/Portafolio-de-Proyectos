@@ -38,7 +38,7 @@ Este repositorio se convertira en una pagina estatica a futuro!
 - Sesion 6: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion6_Drilling)
 - Sesion 7: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion7_ReboundExercise)
 - Sesion 7: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion7_Drilling)
-- Sesion 8: [Rebound Exercise]()
+- Sesion 8: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion8_ReboundExercise)
 - Sesion 8: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion8_Drilling)
 - Sesion 9: [Rebound Exercise]()
 - Sesion 9: [Drilling]()
