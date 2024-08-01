@@ -40,10 +40,10 @@ Este repositorio se convertira en una pagina estatica a futuro!
 - Sesion 7: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion7_Drilling)
 - Sesion 8: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion8_ReboundExercise)
 - Sesion 8: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion8_Drilling)
-- Sesion 9: [Rebound Exercise]()
-- Sesion 9: [Drilling]()
-- Sesion 10: [Rebound Exercise]()
-- Sesion 10: [Drilling]()
+- Sesion 9: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion9_ReboundExercise)
+- Sesion 9: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion9_Drilling)
+- Sesion 10: [Rebound Exercise](https://github.com/Nicol-Guzman/Modulo2_Sesion10_ReboundExercise)
+- Sesion 10: [Drilling](https://github.com/Nicol-Guzman/Modulo2_Sesion10_Drilling)
 
 ## PROYECTOS DE ILUSTRACIÓN Y DISEÑO
 
